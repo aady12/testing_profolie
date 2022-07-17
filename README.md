@@ -1,5 +1,5 @@
 ## Hello there
 
-My name is Vaishnav Parte and I'm full Stack JS developer. Currently, I'm a fresher with tons of ambitions in software development. I like to code and write about new web technologies. In my leisure time, I like to spend time in open source contribution. I have completed my bachelor's in Information Technology. I enjoy being challenged, interacting with the team, and leading them too. Engaging with projects that require me to work outside my comfort and knowledge set, and also continuing to learn about new languages and development techniques are important to me.
+I'm a RPA Developer. With a bachelor’s degree in Information Technology,and hands-on experience in Automation. I'am Certified And highly pro-active RPA Developer in the field of Robotic Process Automation. Recognized for assessing operational needs and developing solutions save costs, improve revenues, and drive customer satisfaction. Resourceful and well-organized with excellent leadership and team building record. Strong hands on experience and comprehensive idea about Robotic Process Automation on UiPath,Working as Full Time RPA Developer, involved in BRD creation, also, collecting and understanding requirements in Various units and doing a feasibility analysis of processes that can be automated..
 
 ## Feel free to make changes in portfolio
